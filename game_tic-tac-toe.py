@@ -86,7 +86,3 @@ while True:
     if count == 9:
         print('Ничья')
         break
-
-
-
-
